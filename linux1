@@ -1,0 +1,6 @@
+commands:
+pwd
+ls
+ls -ll
+ls -a
+cd
